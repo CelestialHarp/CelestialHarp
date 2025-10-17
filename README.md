@@ -21,6 +21,9 @@ My name is Tarcyzio Oliveira, a Software Engineering student and Java Back-end d
 
 
 **Communication:** Highly articulate and expressive in Portuguese, actively striving for the same level of clarity and articulation in English for effective team communication.
+
+## Aos falantes de português:
+Para os falantes de português: Estarei traduzindo esta readme para o português dentro de algum tempo (provavelmente dentro de um ou dois dias), pois estou com o tempo curto no momento.
 <!--
 **CelestialHarp/CelestialHarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
