@@ -16,7 +16,7 @@ My name is Tarcyzio Oliveira, a Software Engineering student and Java Back-end d
 
 **Portuguese (BR):** Native.
 
-**French:** My next target. Currently almost an absolute beginner. Demonstrating a high capability for semi-directed learning planning to proceed to other languages after reaching fluency in French.
+**French:** My next target. Currently almost an absolute beginner. Demonstrating a high capability for semi-directed learning and planning to proceed to other languages after reaching fluency in French.
 
 
 
