@@ -23,7 +23,7 @@ My name is Tarcyzio Oliveira, a Software Engineering student and Java Back-end d
 **Communication:** Highly articulate and expressive in Portuguese, actively striving for the same level of clarity and articulation in English for effective team communication.
 
 [PT-BR}:
-# Olá! Bem-vindo ao meu Perfil do Github ☕
+# Olá! Bem-vindo ao meu Perfil no Github ☕
 Meu nome é Tarcyzio Oliveira, sou estudante de Engenharia de Software e desenvolvedor Java Back-end, buscando ativamente uma vaga de Nível Júnior.
 ## 
 ## 💻 Stack de Tecnologias
