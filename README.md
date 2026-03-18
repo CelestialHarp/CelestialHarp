@@ -1,14 +1,15 @@
 
 # Hello There! Welcome to my Github Profile ☕
-My name is Tarcyzio Oliveira, a Software Engineering student and Java Back-end developer, actively seeking Junior role.
+My name is Tarcyzio Oliveira, a Software Engineering student and Back-end developer (C#/Java), actively seeking Junior role.
 ## 
-## 💻 Tech stack 
+## 💻 Tech stack
+- **C# core (main language):** C#, .NET 10 , ASP.NET Core, Entity Framework Core and learning other frameworks, such as Blazor and Avalonia.
 - **Java core:** Java, Spring Boot, Spring Data JPA, Hibernate.
-- **Databases:** MySQL (Solid proficiency in relational modeling). Planning to learn PostgreSQL (in the near future) and mongodb.
-- **Tools:** Eclipse (transitioning to IntelliJ IDEA shortly), VSCode, Git/Github.
-- **Concepts:** Software engineering principles (Good practices, Modularity, Interoperability, etc).
+- **Databases:** PostgreSQL, MySQL (Solid proficiency in relational modeling). Planning to learn mongodb in near future.
+- **Tools:** VSCode, Eclipse (transitioning to IntelliJ IDEA shortly), Git/Github, Linux (Fedora, mint, debian) and Regular Expressions (Regex).
+- **Concepts:** Software engineering principles ( SOLID principles, Good practices, Modularity, Interoperability, etc).
 ## ✨ Skills and Differentials 
-- **Curiosity & growth Mindset:** Actively pursuing Junior-level expertise, focusing in security (with Spring Security) and automated tests.
+- **Curiosity & growth Mindset (although I don't like the buzzword):** Actively pursuing Junior-level expertise, focusing in security (with Spring Security) and automated tests.
 - **Systemic Thinking:** Ability to rapidly acquire new concepts and connect technical knowledge across different domains, fostering robust and creative solutions.
 ## 🗣️ Language Proficiency & communication 
 
@@ -24,15 +25,16 @@ My name is Tarcyzio Oliveira, a Software Engineering student and Java Back-end d
 
 [PT-BR}:
 # Olá! Bem-vindo ao meu Perfil no Github ☕
-Meu nome é Tarcyzio Oliveira, sou estudante de Engenharia de Software e desenvolvedor Java Back-end, buscando ativamente uma vaga de Nível Júnior.
+Meu nome é Tarcyzio Oliveira, sou estudante de Engenharia de Software e desenvolvedor Back-end (C#/Java), buscando ativamente uma vaga de Nível Júnior.
 ## 
 ## 💻 Stack de Tecnologias
+- **C# (Core) (Linguagem principal):** C#, .NET 10, ASP.NET Core, Entity Framework Core, e estudando outros frameworks, como Blazor e Avalonia.
 - **Java (Core):** Java, Spring Boot, Spring Data JPA, Hibernate.
-- **Bancos de Dados:** MySQL (Proficiência sólida em modelagem relacional). Planejando aprender PostgreSQL (em um futuro próximo) e MongoDB.
-- **Ferramentas:** Eclipse (migrando para o IntelliJ IDEA em breve), VSCode, Git/Github.
-- **Conceitos:** Princípios de engenharia de software (Boas práticas, Modularidade, Interoperabilidade, etc).
+- **Bancos de Dados:** PostgreSQL, MySQL (Proficiência sólida em modelagem relacional). Planejando aprender MongoDB, num futuro próximo.
+- **Ferramentas:** VSCode, Eclipse (migrando para o IntelliJ IDEA em breve), Git/Github, Linux (Fedora, mint, debian) e Expressões regulares (Regex).
+- **Conceitos:** Princípios de engenharia de software (Princípios SOLID, Boas práticas, Modularidade, Interoperabilidade, etc).
 ## ✨ Habilidades e Diferenciais
-- **Curiosidade e Mentalidade de Crescimento (Growth Mindset):** Buscando ativamente expertise de nível Júnior, focado em segurança (com Spring Security) e testes automatizados.
+- **Curiosidade e Mentalidade de Crescimento (Growth Mindset, embora não goste da buzzword):** Buscando ativamente expertise de nível Júnior, focado em segurança (com Spring Security) e testes automatizados.
 - **Pensamento Sistêmico:** Habilidade de adquirir rapidamente novos conceitos e conectar conhecimento técnico entre diferentes domínios, fomentando soluções robustas e criativas.
 ## 🗣️ Proficiência em Idiomas e Comunicação
 
