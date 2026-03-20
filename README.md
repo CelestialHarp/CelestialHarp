@@ -3,21 +3,6 @@
 My name is Tarcyzio Oliveira, a Software Engineering student and Back-end developer (C#/Java), actively seeking Junior role.
 ## 
 ## 💻 Tech stack
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,hibernate" title="C#, .NET, Java, Spring Boot e Hibernate" />
-</a>
-
-<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" title="PostgreSQL e MySQL" />
-</a>
-
-<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,linux,fedora,mint,debian,git,github,regex" title="Docker, Linux (Fedora/Mint/Debian), Git/GitHub e Regex" />
-</a>
-<a href="https://skillicons.dev">
-
 - **C# core (main language):** C#, .NET 10 , ASP.NET Core, Entity Framework Core and learning other frameworks, such as Blazor and Avalonia.
 - **Java core:** Java, Spring Boot, Spring Data JPA, Hibernate.
 - **Databases:** PostgreSQL, MySQL (Solid proficiency in relational modeling). Planning to learn mongodb in near future.
