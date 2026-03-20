@@ -20,9 +20,8 @@ My name is Tarcyzio Oliveira, a Software Engineering student and Back-end develo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Regex](https://img.shields.io/badge/Regex-430C58?style=for-the-badge&logo=regular-expressions&logoColor=white)
-
-#### **Operational Systems(Linux)**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-00B000?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
