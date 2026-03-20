@@ -1,9 +1,9 @@
-
+[EN-US] Versão em português abaixo.
 # Hello There! Welcome to my Github Profile ☕
 My name is Tarcyzio Oliveira, a Software Engineering student and Back-end developer (C#/Java), actively seeking Junior role.
 ## 
 ## 💻 Tech stack
-#### **Backend (.NET (main focus) & Java)**
+#### **Backend (.NET [main focus] & Java)**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET 10](https://img.shields.io/badge/.NET%2010-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
